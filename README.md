@@ -21,13 +21,35 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
+**My Interest & Activities :**
 
+Programming | Books | Movies <br>
+Music | Design <br>
+Running 
+
+<br>
+
+<p align="center">
+<a href="https://github.com/JajangJamaludin">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JajangJamaludin&show_icons=true&theme=bear"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JajangJamaludin&layout=compact&langs_count=8&theme=bear"/>
+</a>
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JajangJamaludin&theme=github)
+ 
+  <p align="center">
+<a href="https://github.com/JajangJamaludin">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JajangJamaludin&theme=bear"/>
+</a>
+
+
+<!-- 
 <a href="https://github.com/JajangJamaludin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JajangJamaludin&theme=light&hide_langs_below=1"/>
 </a>
 <a href="https://github.com/JajangJamaludin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JajangJamaludin&&show_icons=true&theme=light&line_height=27" alt="Jajang's github stats"/>
-</a>
+</a> -->
 
 <div align="center">
 
