@@ -42,7 +42,6 @@ Running
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=JajangJamaludin&theme=bear"/>
 </a>
 
-
 <!-- 
 <a href="https://github.com/JajangJamaludin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JajangJamaludin&theme=light&hide_langs_below=1"/>
