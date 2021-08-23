@@ -25,7 +25,7 @@
 
 Programming | Books | Movies <br>
 Music | Design <br>
-Running | 
+Running
 
 <br>
 
@@ -54,13 +54,6 @@ Running |
   <a href="https://github.com/JajangJamaludin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>
-<!-- 
-<a href="https://github.com/JajangJamaludin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JajangJamaludin&theme=light&hide_langs_below=1"/>
-</a>
-<a href="https://github.com/JajangJamaludin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JajangJamaludin&&show_icons=true&theme=light&line_height=27" alt="Jajang's github stats"/>
-</a> -->
 
 <div align="center">
 
