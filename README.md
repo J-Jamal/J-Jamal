@@ -1,6 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Jajang Jamaludin 🧑🏻
 
-
 - 🔭 I’m currently working on House Price Prediction.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Internship.
@@ -21,6 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code> -->
+
 
 **My Interest & Activities :**
 
@@ -43,6 +43,7 @@ Running
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Jamal&theme=bear"/>
 </a>
 
+
  **🔍 You Can Find Me at**
 
 <p>
@@ -59,6 +60,7 @@ Running
 
 <div align="center">
 
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
