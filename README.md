@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px"> I'm Jajang Jamaludin 🧑🏻
+# Hi there, I'm Jajang Jamaludin 🧑🏻
 
 - 🔭 I'm currently working on a personal blog using the MERN Stack.
 - 🌱 I'm learning Backend.
