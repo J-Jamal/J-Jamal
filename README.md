@@ -1,20 +1,17 @@
 # Hi there, I'm Jajang Jamaludin 🧑🏻
 
-- 🔭 I'm currently working on a personal blog using the MERN Stack.
+- 🔭 I'm currently working on a personal blog using laravel.
 - 🌱 I'm learning Backend.
 - 👯 I’m looking to collaborate on Internship.
-- 🤔 I'm looking for help with Vue JS, Laravel and Adonis Documentation.
+- 🤔 I'm looking for help with Laravel and Adonis Documentation.
 - 💬 Ask me about Backend Developer or other tech related stuff.
 - 📫 How to reach me: Telegram
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 4 hours reading a book every day.
+- ⚡ Fun fact: I spend almost 2 hours reading books every day.
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
