@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Internship.
 - 🤔 I'm looking for help with Laravel and Adonis Documentation.
 - 💬 Ask me about Backend Developer or other tech related stuff.
-- 📫 How to reach me: Telegram
+- 📫 How to reach me: Telegram & Linkedin.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2 hours reading books every day.
 
