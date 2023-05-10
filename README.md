@@ -36,7 +36,7 @@ Running
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Jamal&layout=compact&langs_count=8&theme=bear"/>
 </a>
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J-Jamal&theme=github)
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J-Jamal&theme=github) -->
  
   <p align="center">
 <a href="https://github.com/J-Jamal">
