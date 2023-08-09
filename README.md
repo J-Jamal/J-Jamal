@@ -1,13 +1,12 @@
 # Hi there, I'm Jajang Jamaludin 🧑🏻
 
-- 🔭 I'm currently working on a personal blog using laravel.
-- 🌱 I'm learning Backend.
-- 👯 I’m looking to collaborate on Internship.
-- 🤔 I'm looking for help with Laravel and Adonis Documentation.
-- 💬 Ask me about Backend Developer or other tech related stuff.
-- 📫 How to reach me: Telegram & Linkedin.
+- 🔭 I'm currently learning to use Quality Assurance.
+- 🌱 I'm learning Backend and Quality Assurance.
+- 👯 I’m looking to collaborate on Internship and Jobs.
+- 💬 Ask me about Quality Assurance or other tech related stuff.
+- 📫 How to reach me: Linkedin.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2 hours reading books every day.
+- ⚡ Fun fact: I spend almost 1 hours reading books every day.
 
 
 **Languages and Tools:**  
@@ -15,17 +14,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
 **My Interest & Activities :**
 
-Programming | Books | Movies <br>
-Music | Design <br>
+Programming | Tester | Books <br>
 Running
 
 <br>
@@ -34,13 +31,6 @@ Running
 <a href="https://github.com/J-Jamal">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-Jamal&show_icons=true&theme=bear"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Jamal&layout=compact&langs_count=8&theme=bear"/>
-</a>
-
-<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=J-Jamal&theme=github) -->
- 
-  <p align="center">
-<a href="https://github.com/J-Jamal">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Jamal&theme=bear"/>
 </a>
 
 <div align="center">
