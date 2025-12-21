@@ -1,56 +1,24 @@
-# Hi there, I'm Jajang Jamaludin 🧑🏻
-
-- 🔭 I'm currently learning to use Quality Assurance.
-- 🌱 I'm learning Backend and Quality Assurance.
-- 👯 I’m looking to collaborate on Internship and Jobs.
-- 💬 Ask me about Quality Assurance or other tech related stuff.
-- 📫 How to reach me: Linkedin.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 1 hours reading books every day.
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+## 💫 About Me:
+## Hi there, I'm Jajang Jamaludin 🧑🏻
+  - 🔭 IT professional with a strong interest in **Database Systems** and data reliability. Currently focusing on building skills toward becoming an **IT Database / Database Administrator**.
+  - 🌱 I'm learning **Database Administration (DBA)**. Focused on SQL, database performance, backup & recovery, and data reliability. Continuously improving skills in Linux and database systems.
+  - 👯 I’m looking to collaborate on Internship and Jobs.
+  - 💬 Ask me about SQL, database administration, backup & recovery, and Linux servers.
+  - 📫 How to reach me: Linkedin.
+  - 😄 Pronouns: He/His
+  -  ⚡ Fun fact: I spend almost 1 hours reading books every day.
 
 
-**My Interest & Activities :**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jajangjamaludin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jajang-jamaludin) 
 
-Programming | Tester | Books <br>
-Running
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br>
 
-<p align="center">
-<a href="https://github.com/J-Jamal">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-Jamal&show_icons=true&theme=bear"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-Jamal&layout=compact&langs_count=8&theme=bear"/>
-</a>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=J-Jamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=J-Jamal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Jamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  
- **🔍 You Can Find Me at**
-  <p style="text-align:center">
-  <a href="https://www.linkedin.com/in/jajangjamaludin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@jajang-jamaludin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/jajangjamaludin" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<!--   <a href="https://twitter.com/tjetje0_0" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p> -->
- </div>
-<!--   <a href="https://github.com/J-Jamal" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/J-Jamal" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
-<!--   <a href="https://github.com/J-Jamal" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-<!--     <a href="https://github.com/J-Jamal" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> -->
-<!--   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>   -->
-<div align="center">
-
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
