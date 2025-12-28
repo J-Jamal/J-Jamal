@@ -1,4 +1,3 @@
-## 💫 About Me:
 ## Hi there, I'm Jajang Jamaludin 🧑🏻
   - 🔭 IT professional with a strong interest in **Database Systems** and data reliability. Currently focusing on building skills toward becoming an **IT Database / Database Administrator**.
   - 🌱 I'm learning **Database Administration (DBA)**. Focused on SQL, database performance, backup & recovery, and data reliability. Continuously improving skills in Linux and database systems.
